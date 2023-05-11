@@ -1,0 +1,28 @@
+
+Notes -> 
+
+EDA - Exploratory Data Analysis
+
+standardization -> altering the distribution of data by making it scale free -> converting scale data to scale free data
+normalization -> altering magnitude of the data by making it scale free -> converting scale data to scale free data
+
+
+CRISP-ML(Q) - Part 1 videos - > https://www.youtube.com/playlist?list=PLXqcFxzSKEfa1r9fAFRkuW0zt8GzPlJD3
+
+
+All crispmlQ videos available on DS_Full Length Videos_Updated  in my courses 
+
+------------------------------------------------------------------------------------------------------------
+CRISPML(Q) - part 2 videos ->
+
+DS_Full Length Videos_Updated folder ->
+
+Videos - CRISP-ML(Q) - Data Preparation_Part 18 done
+
+
+For Outliers using Box Plot -> refer this -> https://360digitmg.com/blog/what-is-box-plot
+
+To install certain packages in spyder via anaconda -> goto anaconda navigator->environments->base->open terminal-> pip install feature_engine   -> after installing restart kernel in spyder
+ 
+
+
